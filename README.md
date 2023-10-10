@@ -6,5 +6,5 @@ Este programa C# permite aos usuários inserir as notas de um grupo de alunos e 
 Este programa é útil para professores e educadores que desejam analisar as notas de seus alunos de forma rápida e eficiente.
 
 ## Como Usar
-1. Execute o programa em um ambiente de desenvolvimento C# ou em um prompt de comando.
+1. Clone o Repositório: Clone este repositório para o seu ambiente local.
 
